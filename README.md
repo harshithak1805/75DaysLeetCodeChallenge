@@ -83,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
