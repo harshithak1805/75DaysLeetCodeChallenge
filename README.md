@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
+| [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -197,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Recursion
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
