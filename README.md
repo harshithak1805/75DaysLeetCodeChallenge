@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 ## Design
