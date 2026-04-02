@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
