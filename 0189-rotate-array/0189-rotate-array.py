@@ -3,11 +3,14 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
+        def reverse(arr,i,j):
+            while(i<=j):
+                arr[i],arr[j]=arr[j],arr[i]
+                i+=1
+                j-=1
         n=len(nums)
         k=k%n
-        temp=nums[:n-k]
-        for i in range(k):
-            nums[i]=nums[n-k+i]
-        for i in range(len(nums)-k):
-            nums[k+i]=temp[i]
-            
+        reverse(nums,0,n-1)
+        reverse(nums,0,k-1)
+        reverse(nums,k,n-1)
+        
