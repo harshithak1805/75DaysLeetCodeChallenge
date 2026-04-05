@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Simulation
 |  |
 | ------- |
