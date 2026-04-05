@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
 | ------- |
