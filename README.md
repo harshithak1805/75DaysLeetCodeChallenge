@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
