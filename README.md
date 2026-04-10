@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
+| [0279-perfect-squares](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 ## Stack
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 ## Graph Theory
 |  |
 | ------- |
