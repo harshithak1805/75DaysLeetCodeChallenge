@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
