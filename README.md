@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 ## Two Pointers
