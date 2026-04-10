@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
