@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2706-buy-two-chocolates](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1323-maximum-69-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2706-buy-two-chocolates](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 ## Matrix
