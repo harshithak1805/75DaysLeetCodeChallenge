@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0279-perfect-squares](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
