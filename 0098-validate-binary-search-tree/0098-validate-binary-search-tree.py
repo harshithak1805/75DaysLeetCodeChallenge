@@ -1,12 +1,9 @@
 class Solution:
     def isValidBST(self, root):
-        def dfs(node, low, high):
-            if not node:
-                return True
-            
-            if not (low < node.val < high):
-                return False
-            
-            return dfs(node.left, low, node.val) and dfs(node.right, node.val, high)
-        
-        return dfs(root, float('-inf'), float('inf'))
+        return self.helper(root,float("-inf"),float("inf"))
+    def helper(self,root,minval,maxval):
+        if root is None:
+            return True
+        if (root.val<=minval) or (root.val >= maxval):
+            return False
+        return self.helper(root.left,minval,root.val) and self.helper(root.right,root.val,maxval)
