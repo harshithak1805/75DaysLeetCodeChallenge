@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0051-n-queens](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
