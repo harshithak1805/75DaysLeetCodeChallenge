@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
