@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1903-largest-odd-number-in-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
