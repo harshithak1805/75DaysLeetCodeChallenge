@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
