@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Merge Sort
 |  |
