@@ -1,17 +1,16 @@
-
 class Solution:
     def isValid(self, s: str) -> bool:
         stk=[]
-        n=len(s)
-        for i in range(n):
-            if s[i]=="(" or s[i]=="[" or s[i]=="{":
-                stk.append(s[i])
+        for i in s:
+            if i in "([{":
+                stk.append(i)
             else:
-                if len(stk)==0:
+                if not stk:
                     return False
-                if (stk[-1]=="(" and s[i]==")") or (stk[-1]=="[" and s[i]=="]") or (stk[-1]=="{" and s[i]=="}"):
+                if (stk[-1] == "(" and i == ")") or \
+                (stk[-1]=="{" and i=="}") or \
+                (stk[-1]=="[" and i=="]"):
                     stk.pop()
                 else:
                     return False
         return len(stk)==0
-        
