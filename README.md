@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 ## Linked List
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
