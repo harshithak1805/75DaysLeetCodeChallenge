@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
+| [0466-count-the-repetitions](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
 | [0504-base-7](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0821-shortest-distance-to-a-character) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
+| [0466-count-the-repetitions](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
 | [0541-reverse-string-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0541-reverse-string-ii) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0435-non-overlapping-intervals) |
+| [0466-count-the-repetitions](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0466-count-the-repetitions) |
 ## Stack
 |  |
 | ------- |
