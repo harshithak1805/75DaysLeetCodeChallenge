@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
+| [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1323-maximum-69-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
@@ -294,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -525,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
