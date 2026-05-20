@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0846-hand-of-straights](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0846-hand-of-straights](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0821-shortest-distance-to-a-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
+| [0846-hand-of-straights](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
+| [0846-hand-of-straights](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
