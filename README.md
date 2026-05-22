@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2706-buy-two-chocolates](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
