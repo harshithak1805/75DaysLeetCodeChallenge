@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2706-buy-two-chocolates](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
+| [2974-minimum-number-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 ## Array
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2974-minimum-number-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
