@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
