@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0279-perfect-squares) |
+| [0382-linked-list-random-node](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
@@ -673,4 +675,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
