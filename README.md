@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
