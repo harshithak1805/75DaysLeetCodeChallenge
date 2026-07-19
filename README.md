@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1544-make-the-string-great](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1323-maximum-69-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1544-make-the-string-great](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Merge Sort
 |  |
