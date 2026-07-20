@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [1260-shift-2d-grid](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1260-shift-2d-grid](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
