@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2094-finding-3-digit-even-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2942-find-words-containing-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |
