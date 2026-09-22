@@ -726,4 +726,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
