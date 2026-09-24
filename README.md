@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
