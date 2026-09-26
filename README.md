@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
+| [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 ## Greedy
 |  |
 | ------- |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 ## Geometry
 |  |
 | ------- |
@@ -735,4 +740,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1729-find-followers-count) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
