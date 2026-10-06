@@ -1,11 +1,12 @@
 class Solution:
     def minAddToMakeValid(self, s: str) -> int:
-        fs=[]
+        stk=[]
         for i in s:
-            if i==")" and fs and fs[-1]=="(":
-                fs.pop()
+            if stk:
+                if stk[-1]=="(" and i==")":
+                    stk.pop()
+                else:
+                    stk.append(i)
             else:
-                fs.append(i)
-        return len(fs)    
-            
-
+                stk.append(i)   
+        return len(stk)
