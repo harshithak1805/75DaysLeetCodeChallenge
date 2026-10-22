@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 ## Recursion
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1670-design-front-middle-back-queue) |
 ## Geometry
 |  |
