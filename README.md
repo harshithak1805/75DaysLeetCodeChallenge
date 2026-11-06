@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1710-maximum-units-on-a-truck) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1260-shift-2d-grid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1539-kth-missing-positive-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Binary Search
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
