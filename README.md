@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3360-stone-removal-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3174-clear-digits) |
+| [3360-stone-removal-game](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3360-stone-removal-game) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/harshithak1805/75DaysLeetCodeChallenge/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Number Theory
 |  |
